@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m a passionate Web Developer and tech enthusiast focused on building clean, responsive, and user-friendly digital experiences. 💻 I enjoy turning ideas into real-world projects using modern technologies and continuously improving my skills every day. 🚀<br><br>🌱 Currently exploring full-stack development, backend systems, and scalable web solutions.<br>🤝 Open to collaboration on meaningful projects and innovative ideas.<br>🎯 Goal: To create impactful solutions through code and continuous learning.<br><br>⚡ “Code with purpose, build with passion.”
+👋 Hi, I’m a Software Engineering Student at NUST and Frontend Web Developer focused on building clean, responsive, and user-friendly digital experiences. 💻 I enjoy turning ideas into real-world projects using modern technologies and continuously improving my skills every day. 🚀<br><br>🌱 Currently exploring full-stack development, backend systems, and scalable web solutions.<br>🤝 Open to collaboration on meaningful projects and innovative ideas.<br>🎯 Goal: To create impactful solutions through code and continuous learning.<br><br>⚡ “Code with purpose, build with passion.”
 
 
 ## 🌐 Socials:
